@@ -1,0 +1,400 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  20 MAY 2018 12:24
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**bare_conf.tex
+(./bare_conf.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(./IEEEtran.cls
+Document Class: IEEEtran 2012/12/27 V1.8 by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 368.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen104
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen105
+\CLASSINFOnormalsizeunitybaselineskip=\dimen106
+\IEEEnormaljot=\dimen107
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+\IEEEilabelindentA=\dimen108
+\IEEEilabelindentB=\dimen109
+\IEEEilabelindent=\dimen110
+\IEEEelabelindent=\dimen111
+\IEEEdlabelindent=\dimen112
+\IEEElabelindent=\dimen113
+\IEEEiednormlabelsep=\dimen114
+\IEEEiedmathlabelsep=\dimen115
+\IEEEiedtopsep=\skip41
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEsubeqnnumrollback=\count90
+\@IEEEtmpitemindent=\dimen116
+\c@IEEEbiography=\count91
+\@IEEEtranrubishbin=\box26
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count92
+))
+\Gin@req@height=\dimen117
+\Gin@req@width=\dimen118
+)
+(./bare_conf.aux)
+\openout1 = `bare_conf.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count93
+\scratchdimen=\dimen119
+\scratchbox=\box27
+\nofMPsegments=\count94
+\nofMParguments=\count95
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count96
+\MPscratchDim=\dimen120
+\MPnumerator=\count97
+\makeMPintoPDFobject=\count98
+\everyMPtoPDFconversion=\toks17
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.jpeg,.png,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 100.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <11> on input line 100.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7.69997> on input line 100.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5.5> on input line 100.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 100.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 100.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 100.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 100.
+
+** ATTENTION: \keywords is deprecated (line 110). Use \IEEEkeywords instead.
+[1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+<images/Picture2.png, id=11, 244.7544pt x 85.2786pt>
+File: images/Picture2.png Graphic file (type png)
+ <use images/Picture2.png>
+Package pdftex.def Info: images/Picture2.png used on input line 148.
+(pdftex.def)             Requested size: 180.67499pt x 62.9516pt.
+
+<images/Picture1.png, id=13, 240.9pt x 334.851pt>
+File: images/Picture1.png Graphic file (type png)
+ <use images/Picture1.png>
+Package pdftex.def Info: images/Picture1.png used on input line 187.
+(pdftex.def)             Requested size: 252.94499pt x 351.60391pt.
+
+Overfull \hbox (0.94499pt too wide) in paragraph at lines 187--188
+ [][] 
+ []
+
+[2 <./images/Picture2.png>] <images/d.png, id=18, 775.89874pt x 354.32375pt>
+File: images/d.png Graphic file (type png)
+
+<use images/d.png>
+Package pdftex.def Info: images/d.png used on input line 229.
+(pdftex.def)             Requested size: 180.67499pt x 82.50377pt.
+ <images/Picture3a.png, id=19, 493.845pt x 186.6975pt>
+File: images/Picture3a.png Graphic file (type png)
+
+<use images/Picture3a.png>
+Package pdftex.def Info: images/Picture3a.png used on input line 239.
+(pdftex.def)             Requested size: 252.94499pt x 95.62468pt.
+
+Overfull \hbox (0.94499pt too wide) in paragraph at lines 239--240
+ [][] 
+ []
+
+[3 <./images/Picture1.png>]
+<images/Picture4.png, id=25, 132.495pt x 132.495pt>
+File: images/Picture4.png Graphic file (type png)
+ <use images/Picture4.png>
+Package pdftex.def Info: images/Picture4.png used on input line 255.
+(pdftex.def)             Requested size: 108.405pt x 108.406pt.
+
+<images/Picture5.png, id=26, 292.9344pt x 229.8186pt>
+File: images/Picture5.png Graphic file (type png)
+
+<use images/Picture5.png>
+Package pdftex.def Info: images/Picture5.png used on input line 274.
+(pdftex.def)             Requested size: 252.94499pt x 198.4502pt.
+
+Overfull \hbox (0.94499pt too wide) in paragraph at lines 274--275
+ [][] 
+ []
+
+<images/b.png, id=27, 965.6075pt x 463.7325pt>
+File: images/b.png Graphic file (type png)
+ <use images/b.png>
+Package pdftex.def Info: images/b.png used on input line 283.
+(pdftex.def)             Requested size: 252.94499pt x 121.47333pt.
+
+Overfull \hbox (0.94499pt too wide) in paragraph at lines 283--284
+ [][] 
+ []
+
+[4 <./images/d.png> <./images/Picture3a.png> <./images/Picture4.png> <./images/
+Picture5.png>] [5 <./images/b.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 357--358
+[]\OT1/ptm/m/n/8 Fanuc.eu. (2017). "The ad-van-tages of au-to-mated ma-chine
+ []
+
+
+Underfull \hbox (badness 2253) in paragraph at lines 357--358
+\OT1/ptm/m/n/8 tend-ing." [on-line] Avail-able at: http://www.fanuc.eu/uk/en/in
+dustrial-
+ []
+
+
+Underfull \hbox (badness 5908) in paragraph at lines 360--362
+[]\OT1/ptm/m/n/8 The State of Man-u-fac-tur-ing Tech-nol-ogy. [on-line] Avail-a
+ble at:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 360--362
+\OT1/ptm/m/n/8 https : / / www . plex . com / content / dam / plex / en[]us / r
+esources / whitepaper /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--374
+[]\OT1/ptm/m/n/8 MarketWatch. (2017). In-ter-net of Robotic Things Mar-ket
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--374
+\OT1/ptm/m/n/8 Worth 21.44 Bil-lion USD by 2022. [on-line] Avail-able at:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--374
+\OT1/ptm/m/n/8 https://www.marketwatch.com/story/internet-of-robotic-things-mar
+ket-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
+[]\OT1/ptm/m/n/8 RASPBERRY PI 3 MODEL B+. [on-line] Avail-able at:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 390--391
+[]\OT1/ptm/m/n/8 Raspberry-Pi-Model-Bplus-Product-Brief.[online] Avail-able at:
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 390--391
+\OT1/ptm/m/n/8 https://static.raspberrypi.org/files/product-briefs/Raspberry-Pi
+-Model-
+ []
+
+
+Underfull \hbox (badness 7030) in paragraph at lines 393--394
+[]\OT1/ptm/m/n/8 Electronicoscaldas.com.(2017). [on-line] Avail-able at: $http 
+: / / www .
+ []
+
+
+Underfull \hbox (badness 1681) in paragraph at lines 396--397
+[]\OT1/ptm/m/n/8 Cdn.sparkfun.com. (2017). Cite a Web-site - Cite This For Me.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--397
+\OT1/ptm/m/n/8 [on-line] Avail-able at: $https : / / cdn . sparkfun . com / dat
+asheets / Robotics /
+ []
+
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[6] (./bare_conf.aux) ) 
+Here is how much of TeX's memory you used:
+ 2422 strings out of 493014
+ 38409 string characters out of 6133351
+ 105598 words of memory out of 5000000
+ 5948 multiletter control sequences out of 15000+600000
+ 37360 words of font info for 73 fonts, out of 8000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 37i,12n,24p,1608b,289s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base
+/8r.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.
+pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/
+local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/tex
+live/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/
+texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on bare_conf.pdf (6 pages, 632216 bytes).
+PDF statistics:
+ 63 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
